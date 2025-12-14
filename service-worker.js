@@ -1,3 +1,4 @@
 self.addEventListener("install", () => {
-  console.log("FedeEnvios instalada 🌸");
+  console.log("FedeEnvios instalada 🏍");
+
 });
