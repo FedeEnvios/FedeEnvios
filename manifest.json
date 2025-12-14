@@ -7,9 +7,10 @@
   "theme_color": "#fffafc",
   "icons": [
     {
-      "src": "FedeEnvios.jpeg",
+      "src": "FedeEnvios.jpg",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
   ]
+
 }
