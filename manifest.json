@@ -9,8 +9,9 @@
     {
       "src": "FedeEnvios.jpg",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/jpg"
     }
   ]
 
 }
+
