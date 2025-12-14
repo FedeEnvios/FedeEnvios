@@ -1,0 +1,15 @@
+{
+  "name": "FedeEnvios",
+  "short_name": "FedeEnvios",
+  "start_url": "https://www.appsheet.com/start/b4d6b8f0-a012-4538-a22a-1f4ff82c58e6",
+  "display": "standalone",
+  "background_color": "#fffafc",
+  "theme_color": "#fffafc",
+  "icons": [
+    {
+      "src": "FedeEnvios.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
